@@ -2,6 +2,7 @@
 ![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?languages=cpp,kotlin,java,c,html,css,js,lua,json,yaml,bash&theme=darkmode)
 -->
 - 💻 I'm currently working on:
+  - Jai Lang (by Jonathan Blow)
   - C/C++ Development
 
  ---
