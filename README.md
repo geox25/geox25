@@ -6,7 +6,7 @@
   - Go
 
  
-![alt text](https://raw.githubusercontent.com/egonelbre/gophers/refs/heads/master/.thumb/icon/gotham-3x.png)
+<!--![alt text](https://raw.githubusercontent.com/egonelbre/gophers/refs/heads/master/.thumb/icon/gotham-3x.png)
 
 <!--
 ![Github Statistics](https://github-readme-stats.vercel.app/api?username=geox25&theme=dark)
